@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" role="img" aria-label="Database">
+  <rect width="16" height="16" fill="none"/>
+  <ellipse cx="8" cy="3.6" rx="5" ry="2.1" fill="#dff6ff" stroke="#1592d0" stroke-width="1"/>
+  <path d="M3 3.6v7.8c0 1.2 2.2 2.1 5 2.1s5-.9 5-2.1V3.6" fill="#dff6ff" stroke="#1592d0" stroke-width="1"/>
+  <path d="M3 7.3c0 1.2 2.2 2.1 5 2.1s5-.9 5-2.1M3 10.5c0 1.2 2.2 2.1 5 2.1s5-.9 5-2.1" fill="none" stroke="#8ed7f0" stroke-width="1"/>
+</svg>

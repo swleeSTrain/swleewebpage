@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#e6f5ff"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0v24" fill="none" stroke="#c8dceb" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#grid)" opacity="0.65"/>
+  <rect x="70" y="80" width="1060" height="470" fill="#ffffff" stroke="#9fc1d8" stroke-width="4"/>
+  <rect x="70" y="80" width="1060" height="68" fill="#2b7dc1"/>
+  <g transform="translate(110 184)">
+    <rect width="120" height="120" fill="#95dcff" stroke="#1366ad" stroke-width="6"/>
+    <path d="M20 72 72 20h34v34L54 106H20z" fill="#48a7d9"/>
+    <rect x="28" y="28" width="30" height="30" fill="#ffffff" stroke="#2c7fbd" stroke-width="4"/>
+    <rect x="62" y="62" width="30" height="30" fill="#ffffff" stroke="#2c7fbd" stroke-width="4"/>
+  </g>
+  <text x="260" y="250" fill="#101820" font-family="Arial, Tahoma, sans-serif" font-size="86" font-weight="700">SW.LEE PORTAL</text>
+  <text x="264" y="318" fill="#236aa5" font-family="Arial, Tahoma, sans-serif" font-size="34" font-weight="700">Backend-Oriented Full-Stack Developer</text>
+  <text x="264" y="382" fill="#333333" font-family="Arial, Tahoma, sans-serif" font-size="28">Java · Spring Boot · FastAPI · Next.js · AWS · Codex</text>
+  <g fill="#2b7dc1" font-family="Arial, Tahoma, sans-serif" font-size="24" font-weight="700">
+    <text x="264" y="456">TECH STACK</text>
+    <text x="470" y="456">PROJECT</text>
+    <text x="640" y="456">WRITING</text>
+    <text x="820" y="456">CONTACT</text>
+  </g>
+</svg>
